@@ -18,4 +18,4 @@ Em outro terminal execute o front end
 ```
 
 ## Bugs
-  Mapa de visualização não aceita formatação de dados utilizada
+  Mapa de visualização não aceita mais de 3 colunas como formatação dos dados, necessário mudar de API de mapa
